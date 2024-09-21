@@ -1,7 +1,7 @@
 {
   "name": "mystoreservices",
   "version": "1.0.0",
-  "description": "",
+  "description": "ขั้นตอนการใช้งาน\r 1. สร้าง Database ด้วยคำสั่งในไฟล์ CreateDB.sql\r 2. ติดตั้ง Package โดยใช้คำสั่ง npm install\r 3. สร้างไฟล์ชื่อ .env เพื่อระบุรหัสผ่านของ DB โดยให้ใส่ข้อมูลดังนี้",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -15,7 +15,7 @@
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "express": "^4.18.3",
+    "express": "^4.21.0",
     "express-rate-limit": "^7.2.0",
     "jsonwebtoken": "^9.0.2",
     "prisma": "^5.11.0",

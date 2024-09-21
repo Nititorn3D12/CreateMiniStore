@@ -1,0 +1,12 @@
+{
+  "name": "ministore",
+  "version": "1.0.0",
+  "description": "ระบบ Backend Service เพื่อการเรียนการสอน\r สิ่งที่ได้เรียนรู้\r - REST API Development\r - API Rate Limiting\r - API Versioning\r - Services on HTTPS\r - API Documentation using Swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
